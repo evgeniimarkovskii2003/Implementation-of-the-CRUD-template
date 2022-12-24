@@ -88,43 +88,6 @@
 
 
 ## Значимые фрагменты кода
-Фрагмент кода, запрашивающий записи о постах из базы данных:
-```sh
-$link = mysqli_connect("localhost", "admin", "admin", "lab2_bd");
-
-mysqli_set_charset($link, "utf8");
-
-$sql = 'SELECT * FROM posts ORDER BY time DESC';
-
-$result = mysqli_query($link, $sql);
-$max_posts = mysqli_num_rows($result);
-$result = mysqli_fetch_all($result, MYSQLI_ASSOC);
-```
-
-Фрагмент кода, содержащий скрипты для "раскрывающихся" комментариев
-```sh
-<script> 
-	function show_comments(id){
-		let c = document.getElementById("c"+id);
-		c.removeAttribute("hidden");
-		
-		let b = document.getElementById("b"+id);
-		b.textContent = "Скрыть комментарии";
-		
-		b.setAttribute("onClick", "hide_comments('"+id+"')");
-	}
-	
-	function hide_comments(id) {
-		let c = document.getElementById("c"+id);
-		c.setAttribute("hidden", true);
-		
-		let b = document.getElementById("b"+id);
-		b.textContent = "Показать комментарии";
-		
-		b.setAttribute("onClick", "show_comments('"+id+"')");
-	}
-</script>
-```
 
 Фрагмент кода выдачи постов: 
 ```sh
@@ -147,12 +110,12 @@ $result = mysqli_fetch_all($result, MYSQLI_ASSOC);
 		[$comments, $comm_count, $c_id, $sub_comm_count] = parse_comment($post_id, $comments_db);
 				
 		echo "<tr> <td>";
-		include ("template/post.php");
+		include ("post.php");
 		echo "</td></tr>";
 				
 		echo "<tr height = 5> </tr>";
 		echo "<tr><td>";
-		include ("template/comments.php"); 
+		include ("comments.php"); 
 		echo "</td></tr>";
 				
 		echo "<tr height = 20> <td> <hr> <td> </tr>";
@@ -164,8 +127,7 @@ $result = mysqli_fetch_all($result, MYSQLI_ASSOC);
 Фрагмент кода, создающий новую запись о посте в базе данных:
 ```sh
 $sql = "INSERT INTO `posts` (`id`, `text`, `like_count`) VALUES (NULL, '".$text."', '0');";
-	
-$link = mysqli_connect("localhost", "admin", "admin", "lab2_bd");
+$link = mysqli_connect("localhost", "admin", "admin", "crud");
 mysqli_set_charset($link, "utf8");
 $res = mysqli_query($link, $sql);
 ```
