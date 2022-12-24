@@ -71,7 +71,7 @@
 ### 5. Описание алгоритмов
 
 - Пользователь добавляет новую запись с картинкой:
-<p align = "center"> <img src="https://github.com/tagathlet/3sem_lr2/blob/main/DiagAlgPosts.png" width = "400"> </p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C.png">
 
 
 - Пользователь оставляет комментарий:
