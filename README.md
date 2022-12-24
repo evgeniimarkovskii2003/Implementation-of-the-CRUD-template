@@ -37,20 +37,10 @@
 
 ### 3. Описание API сервера и хореографии
 
-- Пример запросов, когда пользователь оставляет новую запись:
-<p align = "center"><img src="https://ic.wampi.ru/2022/11/25/new_post.png"/width = 370></p>
-Post запрос содержит следующие данные: данные об изображении и текст записи
-
-- Пример запросов, когда пользователь оставляет реакцию на запись:
-<p align = "center"><img src="https://im.wampi.ru/2022/11/25/reaction.png"/width = 370></p>
-
-- Пример запросов, когда пользователь оставляет комментарий:
-<p align = "center"><img src="https://ic.wampi.ru/2022/11/25/comment.png"/width = 370></p>
-Post запрос содержит следующие данные: текст комментария, текущую страницу форума и id записи, которую комментируют. В случае, если это комментарий второго уровня, id записи заменяется на id комментария.
-
-- Пример запросов, когда пользователь перемешается между страницами:
-<p align = "center"><img src="https://ie.wampi.ru/2022/11/25/Page.png"/width = 300></p>
-
+####Примеры различных запросов:
+<p align = "center"><img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/newpost.png"/width = 370></p>
+<p align = "center"><img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/reaction.png"/width = 370></p>
+<p align = "center"><img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/scrollingposts.png"/width = 370></p>
 
 ### 4. Описание структуры базы данных
 
