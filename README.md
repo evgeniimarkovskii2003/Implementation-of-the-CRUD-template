@@ -10,6 +10,7 @@
 ### 1) Разработка пользовательского интерфейса
 
 [Пользовательский интерфейс](https://www.figma.com/file/R5sTZRMo1JGB2srim3KWYp/Untitled?node-id=0%3A1&t=5rPowaLivv0hOcEg-0)
+![Пользовательский интерфейс](https://github.com/evgeniimarkovskii2003/lab2/blob/main/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81.PNG)
 
 ### 2. Описание пользовательских сценариев работы
 На сайте пользователю доступны следующие возможности:
