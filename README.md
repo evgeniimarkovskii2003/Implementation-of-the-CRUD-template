@@ -38,9 +38,9 @@
 ### 3. Описание API сервера и хореографии
 
 #### Примеры различных запросов:
-<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/newpost.png"</p>
-<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/reaction.png"</p>
-<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/scrollingposts.png"</p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/newpost.png"/width = 500</p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/reaction.png"/width = 500</p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/scrollingposts.png"/width = 500</p>
 
 ### 4. Описание структуры базы данных
 
