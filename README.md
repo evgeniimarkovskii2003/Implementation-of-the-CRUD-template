@@ -9,14 +9,7 @@
 
 ### 1) Разработка пользовательского интерфейса
 
-- Главная страница
-
-![Рис.1 - Главная страница](https://github.com/tagathlet/3sem_lr2/blob/main/StartPage.png)
-
-
-- Главная страница с раскрытыми комментариями
-
-![Рис.2 - Главная страница с раскрытыми комментариями](https://github.com/tagathlet/3sem_lr2/blob/main/PageWithComments.png)
+[Пользовательский интерфейс]([https://www.figma.com/file/GvhIx2czhSO3PeAXmRvKAq/HTTP-%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F?t=fiQjQKAOMsTSM9DA-0](https://www.figma.com/file/R5sTZRMo1JGB2srim3KWYp/Untitled?node-id=0%3A1&t=5rPowaLivv0hOcEg-0))
 
 
 ### 2. Описание пользовательских сценариев работы
