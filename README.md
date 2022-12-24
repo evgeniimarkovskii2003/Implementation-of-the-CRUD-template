@@ -9,7 +9,7 @@
 
 ### 1) Разработка пользовательского интерфейса
 
-[Пользовательский интерфейс](https://www.figma.com/file/GvhIx2czhSO3PeAXmRvKAq/HTTP-%D0%90%D1%83%D1%82%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F?t=fiQjQKAOMsTSM9DA-0)
+[Пользовательский интерфейс](https://www.figma.com/file/R5sTZRMo1JGB2srim3KWYp/Untitled?node-id=0%3A1&t=5rPowaLivv0hOcEg-0)
 
 ### 2. Описание пользовательских сценариев работы
 На сайте пользователю доступны следующие возможности:
