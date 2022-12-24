@@ -75,18 +75,16 @@
 
 
 - Пользователь оставляет комментарий:
-<p align = "center"><img src="https://github.com/tagathlet/3sem_lr2/blob/main/Diag_NewComm.png" width = "400"/></p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B8.png">
 
 
 - Пользователь оставляет реакцию:
-<p align = "center"><img src="https://github.com/tagathlet/3sem_lr2/blob/main/DiagLike.png" width = "300"/></p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/%D0%BB%D0%B0%D0%B9%D0%BA%D0%B8.png">
 
 
 - Пользователь переключается между страницами:
-<p align = "center"><img src="https://github.com/tagathlet/3sem_lr2/blob/main/DiagPages.png" width = "120"/></p>
+<img src="https://github.com/evgeniimarkovskii2003/lab2/blob/main/%D0%BF%D1%80%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png">
 
-- Алгоритм выдачи постов:
-<p align = "center"><img src="https://github.com/tagathlet/3sem_lr2/blob/main/DiagAlgPosts.png" width = "200"/></p>
 
 
 ## Значимые фрагменты кода
